@@ -1,0 +1,1 @@
+Berikut adalah class java yang digunakan untuk FitNesse
